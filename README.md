@@ -66,7 +66,7 @@ Through this project, I learned and implemented:
 
 ## 🧑‍💻 Author
 
-**Roshini Amutha**  
+**Divya Roshini**  
 Web Development Intern @ **Oasis Infobyte**  
 📧 **roshiniamutha0710@gmail.com**  
 
